@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ian Hudicourt
 - 👀 I’m interested in ... mobile/web development
-- 🌱 I’m currently learning ... Flutter/Native android (Kotlin)
+- 🌱 I’m currently learning ... React Native
 - 📫 ihudicourt@gmail.com
 
 <!---
